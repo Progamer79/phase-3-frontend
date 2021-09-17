@@ -1,0 +1,15 @@
+h1 {
+     color:black;
+}
+.NewMovie{
+     background-color: cornsilk;
+}
+.NewMovie form input{
+     background-color: beige;
+}
+
+.title{
+     background-color: crimson;
+     text-align: center;
+     border: 3px solid green;
+}
